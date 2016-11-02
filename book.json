@@ -37,8 +37,8 @@
   ],
   "pluginsConfig": {
     "donate": {
-      "wechat": "https://github.com/henryZ/leaning-java-unit-test/tree/master/img/wechat.png",
-      "alipay": "https://github.com/henryZ/leaning-java-unit-test/tree/master/img/alipay.png",
+      "wechat": "https://henryz.gitbooks.io/java-test-learning/content/img/wechat.png",
+      "alipay": "https://henryz.gitbooks.io/java-test-learning/content/img/alipay.png",
       "title": "",
       "button": "赏",
       "alipayText": "支付宝打赏",
