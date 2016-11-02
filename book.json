@@ -1,5 +1,4 @@
 {
-  "author": "Sky Ao <aoxiaojian@gmail.cn>",
   "author": "herryZ <zsh989163@163.com>",
   "description": "java测试是一个庞大的体系,这里整理了TDD,BDD所需要的一些工具，框架(JUnit4,Assertj,Mockito,PowerMock,h2,DbUnit,Cucumber等)",
   "extension": null,
@@ -29,7 +28,7 @@
     "toggle-chapters",
     "splitter",
     "emphasize",
-    "tbfed-pagefooter"
+    "tbfed-pagefooter",
 	"toggle-chapters",
     "edit-link", 
     "etoc",
@@ -48,7 +47,7 @@
 	"edit-link": {
         "base": "https://github.com/henryZ/leaning-java-unit-test/edit/master",
         "label": "Edit"
-    }
+    },
     "tbfed-pagefooter": {
       "copyright":"Copyright &copy www.gitbook.com/@herryZ 2016",
       "modify_label": "该文件修订时间：",
