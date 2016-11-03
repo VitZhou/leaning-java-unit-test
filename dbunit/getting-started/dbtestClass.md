@@ -43,7 +43,7 @@ DBTestClass的子类设置数据库
     ```
 
 1. 重写setUpDatabaseConfig(DatabaseConfig config)方法
-   使用它可以更改ＤbUnit DatabaseCOnfig的一些配置
+   使用它可以更改DbUnit DatabaseCOnfig的一些配置
    ```java
    public class SampleTest extends DBTestCase{
         ...
