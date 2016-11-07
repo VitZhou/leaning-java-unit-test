@@ -85,7 +85,7 @@ SortedTable在默认情况下是使用字段的字符串值来做排序的,所�
 ```
 
 ####断言和收集差异
-在默认情况下,DbUnit在犯下第一个数据差异时就会立即失败.从2.4版本开始,可以注册一个自定的 FailureHandler,它可以制定抛出的各种异常,以及如何处理数据差异的出现。使用DiffCollectingFailureHandler可以避免数据不匹配的抛出,这样可以时候评估书库比较的所有结果
+在默认情况下,DbUnit在犯下第一个数据差异时就会立即失败.从2.4版本开始,可以注册一个自定的 FailureHandler,它可以制定抛出的各种异常,以及如何处理数据差异的出现。使用DiffCollectingFailureHandler可以避免数据不匹配的抛出,这样可以评估比较的所有结果
 ```java
 IDataSet dataSet = getDataSet();
 DiffCollectingFailureHandler myHandler = new DiffCollectingFailureHandler();
