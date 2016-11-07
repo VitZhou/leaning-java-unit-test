@@ -1,6 +1,6 @@
 数据库数据验证
 ------
-DbUnit提供了用于验证两个表或者数据集是否含有相同的数据的支持.一下两种方式可以用来验证数据库是否包含测试用例执行期间的预期数据。
+DbUnit提供了用于验证两个表或者数据集是否含有相同的数据的支持.以下两种方式可以用来验证数据库是否包含测试用例执行期间的预期数据。
 ```java
 public class Assertion{
     public static void assertEquals(ITable expected, ITable actual)
