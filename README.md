@@ -12,7 +12,5 @@ TDD和BDD是日常开发中比不可少的一个重要环节。
 
 [Java测试学习笔记@gitbook](https://henryz.gitbooks.io/java-test-learning/content/)
 
-[这里](https://github.com/henryZ/java-test-demo)是一个tdd,bdd集成的demo
-
-
+[这里](https://github.com/henryZ/java-test-demo)是一个tdd,bdd集成的 demo
 
